@@ -15,7 +15,9 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ## 🚀 Demo – How It Works
 
-[Prompt2Scene Demo]![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5c060e4-b00c-4d90-896a-694842c0ec44)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5c060e4-b00c-4d90-896a-694842c0ec44)
+
+[Prompt2Scene Demo]
   
 *Above: Prompt2Scene in action – from prompt to simulation in seconds, if the prompt is difficult it might take more than a minute.*
 
@@ -23,8 +25,9 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ## 🛠️ Example Output
 
-[CARLA Scenario]
 ![R](https://github.com/user-attachments/assets/a3eb3e0d-5939-4abf-9135-a3a56680606a)
+
+[CARLA Scenario]
 
 Prompt : A pedestrian crosses a two-lane street from right to left while a car approaches at 30 km/h.
 
@@ -57,6 +60,7 @@ Prompt : A pedestrian crosses a two-lane street from right to left while a car a
 - Scenario-based testing in simulation.
 - Academic research in AV safety & planning.
 - Dataset generation for machine learning.
+- Help visualise an on-road situation to a learner driver.
 - Showcasing ADAS logic in interviews or research presentations.
 
 ---
