@@ -1,2 +1,63 @@
-# Automatic-ADAS-AD-Scenario-Generation
-ADAS/AV development demands rapid, scalable scenario generation. This project turns natural language into executable traffic simulations in seconds using LLMs supporting OpenSCENARIO, OpenDRIVE, and real-world tools like Esmini, CarMaker, and AVL Scenario Simulator.
+# 🛣️ Prompt2Scene - Automatic Scenario Generation
+
+**Natural Language to Traffic Simulation – Instantly.**
+
+<img width="598" height="334" alt="image" src="https://github.com/user-attachments/assets/bccfc474-7f90-4dd5-a6e8-a99ce2f85a7a" />
+
+Source : https://www.avl.com/en/automated-and-connected-mobility
+
+
+Prompt2Scene is an application I built that transforms plain language descriptions into executable driving scenarios within seconds/minutes. It supports industry-standard formats like **OpenSCENARIO** and **OpenDRIVE**, and integrates with leading simulation environments including **Esmini**, **CarMaker**, **CARLA**, and **AVL Scenario Simulator**.
+
+Whether it's a simple lane-change maneuver or a complex multi-agent urban intersection, Prompt2Scene enables scalable scenario generation for ADAS and autonomous vehicle development, testing, and validation.
+
+---
+
+## 🚀 Demo – How It Works
+
+[Prompt2Scene Demo]![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5c060e4-b00c-4d90-896a-694842c0ec44)
+  
+*Above: Prompt2Scene in action – from prompt to simulation in seconds, if the prompt is difficult it might take more than a minute.*
+
+---
+
+## 🛠️ Example Output
+
+[CARLA Scenario]![R](https://github.com/user-attachments/assets/a3eb3e0d-5939-4abf-9135-a3a56680606a)
+
+*Above: An example scenario rendered in CARLA from a natural language prompt.*
+
+---
+
+## 🔧 Key Features
+
+- 🧠 **LLM-Powered Parsing** – Convert free-form natural language into structured driving logic.
+- 📄 **OpenSCENARIO / OpenDRIVE Support** – Generate machine-readable XML files compliant with AD standards.
+- 🧪 **Simulator Integration** – Supports Esmini, CarMaker, AVL, and CARLA for validation and visualization.
+- ⚙️ **Rapid Prototyping** – Ideal for ADAS developers, simulation engineers, and research teams.
+- 📚 **Modular Prompting** – Easily extendable to support new scene types or simulation parameters.
+
+---
+
+## ✨ Example Prompts
+
+> "A pedestrian crosses a two-lane street from right to left while a car approaches at 30 km/h."
+
+> "An ego vehicle follows a slow truck on a highway and performs a lane change to overtake."
+
+> "Two vehicles start at an intersection, one turns left while another comes straight from the opposite side."
+
+---
+
+## 🎓 Ideal Use Cases
+
+- Scenario-based testing in simulation.
+- Academic research in AV safety & planning.
+- Dataset generation for machine learning.
+- Showcasing ADAS logic in interviews or research presentations.
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out if you'd like a **free demo** or want to know more about how Prompt2Scene can automate your scenario creation workflows.
