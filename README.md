@@ -23,9 +23,12 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ## 🛠️ Example Output
 
-[CARLA Scenario]![R](https://github.com/user-attachments/assets/a3eb3e0d-5939-4abf-9135-a3a56680606a)
+[CARLA Scenario]
+![R](https://github.com/user-attachments/assets/a3eb3e0d-5939-4abf-9135-a3a56680606a)
 
-*Above: An example scenario rendered in CARLA from a natural language prompt.*
+Prompt : A pedestrian crosses a two-lane street from right to left while a car approaches at 30 km/h.
+
+*Above: An example scenario rendered in CARLA.*
 
 ---
 
