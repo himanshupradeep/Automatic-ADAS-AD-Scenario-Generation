@@ -4,7 +4,7 @@
 
 <img width="598" height="334" alt="image" src="https://github.com/user-attachments/assets/bccfc474-7f90-4dd5-a6e8-a99ce2f85a7a" />
 
-Source : https://www.avl.com/en/automated-and-connected-mobility
+Image : https://www.avl.com/en/automated-and-connected-mobility
 
 
 Prompt2Scene is an application I built that transforms plain language descriptions into executable driving scenarios within seconds/minutes. It supports industry-standard formats like **OpenSCENARIO** and **OpenDRIVE**, and integrates with leading simulation environments including **Esmini**, **CarMaker**, **CARLA**, and **AVL Scenario Simulator**.
