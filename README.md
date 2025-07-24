@@ -7,7 +7,7 @@
 Image : https://www.avl.com/en/automated-and-connected-mobility
 
 
-Prompt2Scene is an application I built that transforms plain language descriptions into executable driving scenarios within seconds/minutes. It supports industry-standard formats like **OpenSCENARIO** and **OpenDRIVE**, and integrates with leading simulation environments including **Esmini**, **CarMaker**, **CARLA**, and **AVL Scenario Simulator**.
+Prompt2Scene is an AI powered application I built that transforms plain language descriptions into executable driving scenarios within seconds/minutes. It supports industry-standard formats like **OpenSCENARIO** and **OpenDRIVE**, and integrates with leading simulation environments including **Esmini**, **CarMaker**, **CARLA**, and **AVL Scenario Simulator**.
 
 Whether it's a simple lane-change maneuver or a complex multi-agent urban intersection, Prompt2Scene enables scalable scenario generation for ADAS and autonomous vehicle development, testing, and validation.
 
