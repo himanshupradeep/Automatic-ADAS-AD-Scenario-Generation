@@ -13,7 +13,7 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ---
 
-## 🚀 Demo – How It Works
+## 🚀 Demo – How It Works (Press Play)
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5c060e4-b00c-4d90-896a-694842c0ec44)
 
