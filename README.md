@@ -13,7 +13,7 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ---
 
-## 🚀 Demo – How It Works (Press Play)
+##  Demo – How It Works (Press Play)
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5c060e4-b00c-4d90-896a-694842c0ec44)
 
@@ -23,7 +23,7 @@ Whether it's a simple lane-change maneuver or a complex multi-agent urban inters
 
 ---
 
-## 🛠️ Example Output
+##  Example Output
 
 ![R](https://github.com/user-attachments/assets/a3eb3e0d-5939-4abf-9135-a3a56680606a)
 
@@ -34,18 +34,22 @@ Prompt : A pedestrian crosses a two-lane street from right to left while a car a
 *Above: An example scenario rendered in CARLA.*
 
 ---
+## Graphical User Interface
 
-## 🔧 Key Features
+<img width="1665" height="915" alt="image" src="https://github.com/user-attachments/assets/ac0cce07-b1cd-4ec2-b075-d9b9f09512a7" />
 
-- 🧠 **LLM-Powered Parsing** – Convert free-form natural language into structured driving logic.
-- 📄 **OpenSCENARIO / OpenDRIVE Support** – Generate machine-readable XML files compliant with AD standards.
-- 🧪 **Simulator Integration** – Supports Esmini, CarMaker, AVL, and CARLA for validation and visualization.
-- ⚙️ **Rapid Prototyping** – Ideal for ADAS developers, simulation engineers, and research teams.
-- 📚 **Modular Prompting** – Easily extendable to support new scene types or simulation parameters.
+
+##  Key Features
+
+-  **LLM-Powered Parsing** – Convert free-form natural language into structured driving logic.
+-  **OpenSCENARIO / OpenDRIVE Support** – Generate machine-readable XML files compliant with AD standards.
+-  **Simulator Integration** – Supports Esmini, CarMaker, AVL, and CARLA for validation and visualization.
+- ⚙ **Rapid Prototyping** – Ideal for ADAS developers, simulation engineers, and research teams.
+-  **Modular Prompting** – Easily extendable to support new scene types or simulation parameters.
 
 ---
 
-## ✨ Example Prompts
+##  Example Prompts
 
 > "A pedestrian crosses a two-lane street from right to left while a car approaches at 30 km/h."
 
@@ -55,7 +59,7 @@ Prompt : A pedestrian crosses a two-lane street from right to left while a car a
 
 ---
 
-## 🎓 Ideal Use Cases
+##  Ideal Use Cases
 
 - Scenario-based testing in simulation.
 - Academic research in AV safety & planning.
@@ -65,6 +69,6 @@ Prompt : A pedestrian crosses a two-lane street from right to left while a car a
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
 Feel free to reach out if you'd like a **free demo** or want to know more about how Prompt2Scene can automate your scenario creation workflows.
