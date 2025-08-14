@@ -36,7 +36,7 @@ Prompt : A pedestrian crosses a two-lane street from right to left while a car a
 ---
 ## Graphical User Interface
 
-<img width="1665" height="915" alt="image" src="https://github.com/user-attachments/assets/ac0cce07-b1cd-4ec2-b075-d9b9f09512a7" />
+<img width="1437" height="817" alt="image" src="https://github.com/user-attachments/assets/5f898439-61df-404f-aa15-3a33520c30c7" />
 
 
 ##  Key Features
